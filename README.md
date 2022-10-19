@@ -4,20 +4,17 @@
 
 ```Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.```
 
-
 **2. What is a dynamically typed programming language?**
 
 ```In dynamically typed programming languages, type checking is performed at runtime. This means that variables are checked against types only when the program is executing and also that the type of a variable is allowed to change over its lifetime.```
 
 Examples: ```Python, JavaScript, Lisp, PHP, Ruby, Perl, Lua```
 
-
 **3. What is an interpreted programming language?**
 
 ```An interpreted language is a programming language that is generally interpreted, without compiling a program into machine instructions. It is one where the instructions are not directly executed by the target machine, but instead, read and executed by some other program.```
 
 Examples: ```JavaScript, Perl, Python, BASIC```
-
 
 **4. What is PEP 8 and why is it important?**
 
@@ -130,6 +127,5 @@ High-level: ```Python, Java, C#, JavaScript```
 Low-level: ```Rust, Fortran, x86 Assembly, COBOL```
 
 ```In the old days, C was considered a high-level language. Nowadays C and C++ are considered low-level languages because they have no automatic memory management.```
-
 
 ## !!!WORK_IN_PROGRESS!!!
