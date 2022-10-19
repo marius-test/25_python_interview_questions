@@ -108,23 +108,17 @@ Examples: ```JavaScript, Perl, Python, BASIC```
 
 **What is a statically typed programming language?**
 
-Answer:
-
 ```In statically typed languages, type checking is performed during compile time. It means that the type of a variable is known at compile time. Variables generally are not allowed to change types. For some languages, the programmer must specify what type each variable is, other languages offer some form of type inference.```
 
 Examples: ```C, C++, Java, Scala, Haskell```
 
 **What is an compiled programming language?**
 
-Answer:
-
 ```A compiled language is a programming language that is generally compiled and not interpreted. It is one where the program, once compiled, is expressed in the instructions of the target machine; this machine code is undecipherable by humans.```
 
 Examples: ```C, C++, C#, COBOL, Java```
 
 **What is the difference between a high-level and a low-level programming language?**
-
-Answer:
 
 ```The main difference between high-level language and low-level language is that, Programmers can easily understand or interpret or compile the high level language in comparison of machine. On the other hand, Machine can easily understand the low level language in comparison of human beings.```
 
