@@ -4,9 +4,9 @@
 
 Answer:
 
-```text
+
 <!-- This text is hidden? -->
-```
+
 
 2. What is a dynamically typed language? What about statically? Give example of both.
 
