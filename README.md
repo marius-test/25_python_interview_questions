@@ -4,7 +4,7 @@
 
 Answer:
 
-```
+```text
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
 ```
 
@@ -13,7 +13,7 @@ Python is a high-level, general-purpose programming language. Its design philoso
 Answer:
 
 ```text
-In dynamically typed languages, type checking takes place at runtime or execution time. This means that variables are checked against types only when the program is executing.
+In dynamically typed programming languages, type checking is performed at runtime. This means that variables are checked against types only when the program is executing and also that the type of a variable is allowed to change over its lifetime.
 ```
 
 Examples: ```Python, JavaScript, Lisp, PHP, Ruby, Perl, Lua```
@@ -23,10 +23,10 @@ Examples: ```Python, JavaScript, Lisp, PHP, Ruby, Perl, Lua```
 Answer:
 
 ```text
-
+An interpreted language is a programming language that is generally interpreted, without compiling a program into machine instructions. It is one where the instructions are not directly executed by the target machine, but instead, read and executed by some other program.
 ```
 
-Examples: ```example1, example2```
+Examples: ```JavaScript, Perl, Python, BASIC```
 
 4. What is PEP 8 and why is it important?
 
