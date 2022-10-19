@@ -1,12 +1,11 @@
 # 25 Python Interview Questions
 
-**1. What is Python? What are the benefits of using Python?**
+**1. What is Python? What are the advantages of using Python?**
 
 Answer:
 
 ```text
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
-
 ```
 
 **2. What is a dynamically typed programming language?**
@@ -14,10 +13,10 @@ Python is a high-level, general-purpose programming language. Its design philoso
 Answer:
 
 ```text
-
+In dynamically typed languages, type checking takes place at runtime or execution time. This means that variables are checked against types only when the program is executing.
 ```
 
-Examples:
+Examples: ```Python, JavaScript, Lisp, PHP, Ruby, Perl, Lua```
 
 3. What is an interpreted programming language?
 
@@ -27,7 +26,7 @@ Answer:
 
 ```
 
-Examples:
+Examples: ```example1, example2```
 
 4. What is PEP 8 and why is it important?
 
@@ -217,7 +216,7 @@ Answer:
 
 ```
 
-Examples:
+Examples: ```example1, example2```
 
 - What is a high-level programming language?
 
@@ -227,7 +226,7 @@ Answer:
 
 ```
 
-Examples:
+Examples: ```example1, example2```
 
 - What is a low-level programming language?
 
@@ -237,7 +236,7 @@ Answer:
 
 ```
 
-Examples:
+Examples: ```example1, example2```
 
 - What is an compiled programming language?
 
@@ -247,7 +246,7 @@ Answer:
 
 ```
 
-Examples:
+Examples: ```example1, example2```
 
 
 ## !!!WORK_IN_PROGRESS!!!
