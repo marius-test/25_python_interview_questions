@@ -1,6 +1,6 @@
 # Python Interview Questions
 
-1. What is Python? What are the benefits of using Python?
+**1. What is Python? What are the benefits of using Python?**
 
 Answer:
 
@@ -8,9 +8,7 @@ Answer:
 
 ```
 
-2. What is a dynamically typed language?
-
-Bonus: Examples
+**2. What is a dynamically typed programming language?**
 
 Answer:
 
@@ -18,19 +16,9 @@ Answer:
 
 ```
 
-3. What is a statically typed language?
+Examples:
 
-Bonus: Examples
-
-Answer:
-
-```text
-
-```
-
-4. What is an interpreted language?
-
-Bonus: Examples
+3. What is an interpreted programming language?
 
 Answer:
 
@@ -38,17 +26,9 @@ Answer:
 
 ```
 
-5. What is an compiled language?
+Examples:
 
-Bonus: Examples
-
-Answer:
-
-```text
-
-```
-
-6. What is PEP 8 and why is it important?
+4. What is PEP 8 and why is it important?
 
 Answer:
 
@@ -56,7 +36,7 @@ Answer:
 
 ```
 
-7. What is Scope in Python?
+5. What is Scope in Python?
 
 Answer:
 
@@ -64,7 +44,7 @@ Answer:
 
 ```
 
-8. What are lists, tuples and sets? What is the key difference between them?
+6. What are lists, tuples and sets? What is the key difference between them?
 
 Bonus: Dictionaries
 
@@ -74,7 +54,7 @@ Answer:
 
 ```
 
-9. What are the common built-in data types in Python?
+7. What are the common built-in data types in Python?
 
 Answer:
 
@@ -82,7 +62,7 @@ Answer:
 
 ```
 
-10. What is ```pass``` in Python?
+8. What is ```pass``` in Python?
 
 Answer:
 
@@ -90,7 +70,7 @@ Answer:
 
 ```
 
-11. What are global, protected and private attributes in Python?
+9. What is the main() function in Python?
 
 Answer:
 
@@ -98,7 +78,7 @@ Answer:
 
 ```
 
-12. What is the use of ```self``` in Python?
+10. What are global, protected and private attributes in Python?
 
 Answer:
 
@@ -106,7 +86,7 @@ Answer:
 
 ```
 
-13. What is ```__init__``` in Python?
+11. What is the use of ```self``` in Python?
 
 Answer:
 
@@ -114,7 +94,7 @@ Answer:
 
 ```
 
-14. What is ```break```, ```continue``` and ```pass``` in Python?
+12. What is ```__init__``` in Python?
 
 Answer:
 
@@ -122,7 +102,7 @@ Answer:
 
 ```
 
-15. What are unit tests in Python?
+13. What is ```break```, ```continue``` and ```pass``` in Python?
 
 Answer:
 
@@ -130,7 +110,7 @@ Answer:
 
 ```
 
-16. What is docstring in Python?
+14. What are unit tests in Python?
 
 Answer:
 
@@ -138,7 +118,7 @@ Answer:
 
 ```
 
-17. What is slicing in Python?
+15. What is docstring in Python?
 
 Answer:
 
@@ -146,7 +126,7 @@ Answer:
 
 ```
 
-18. What is the difference between Python arrays and lists?
+16. What is slicing in Python?
 
 Answer:
 
@@ -154,7 +134,7 @@ Answer:
 
 ```
 
-19. How is memory managed in Python?
+17. What is the difference between Python arrays and lists?
 
 Answer:
 
@@ -162,7 +142,7 @@ Answer:
 
 ```
 
-20. What are Python namespaces? Why are they used?
+18. How is memory managed in Python?
 
 Answer:
 
@@ -170,7 +150,7 @@ Answer:
 
 ```
 
-21. What is Scope Resolution in Python?
+19. What are Python namespaces? Why are they used?
 
 Answer:
 
@@ -178,7 +158,7 @@ Answer:
 
 ```
 
-22. What are decorators in Python?
+20. What is Scope Resolution in Python?
 
 Answer:
 
@@ -186,7 +166,7 @@ Answer:
 
 ```
 
-23. What are Dict and List comprehensions?
+21. What are decorators in Python?
 
 Answer:
 
@@ -194,7 +174,7 @@ Answer:
 
 ```
 
-24. What is the ```lambda``` function? Why is it used?
+22. What are Dict and List comprehensions?
 
 Answer:
 
@@ -202,7 +182,7 @@ Answer:
 
 ```
 
-25. How do you copy and object in Python?
+23. What is the ```lambda``` function? Why is it used?
 
 Answer:
 
@@ -210,13 +190,63 @@ Answer:
 
 ```
 
-26 What is the difference between ```xrange``` and ```range``` in Python?
+24. How do you copy and object in Python?
 
 Answer:
 
 ```text
 
 ```
+
+25. What is the difference between ```xrange``` and ```range``` in Python?
+
+Answer:
+
+```text
+
+```
+
+## Bonus:
+
+- What is a statically typed programming language?
+
+Answer:
+
+```text
+
+```
+
+Examples:
+
+- What is a high-level programming language?
+
+Answer:
+
+```text
+
+```
+
+Examples:
+
+- What is a low-level programming language?
+
+Answer:
+
+```text
+
+```
+
+Examples:
+
+- What is an compiled programming language?
+
+Answer:
+
+```text
+
+```
+
+Examples:
 
 
 ## !!!WORK_IN_PROGRESS!!!
