@@ -178,9 +178,9 @@ Answer:
 
 ```The main difference between high-level language and low-level language is that, Programmers can easily understand or interpret or compile the high level language in comparison of machine. On the other hand, Machine can easily understand the low level language in comparison of human beings.```
 
-High-level: Python, Java, C#, JavaScript
+High-level: ```Python, Java, C#, JavaScript```
 
-Low-level: Rust, Fortran, x86 Assembly, COBOL
+Low-level: ```Rust, Fortran, x86 Assembly, COBOL```
 
 ```In the old days, C was considered a high-level language. Nowadays C and C++ are considered low-level languages because they have no automatic memory management.```
 
