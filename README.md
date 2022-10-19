@@ -18,21 +18,15 @@ Examples: ```JavaScript, Perl, Python, BASIC```
 
 **4. What is PEP 8 and why is it important?**
 
-Introduced in 2001, PEP 8 is a document that provides guidelines and best practices on how to write Python code. The primary focus of PEP 8 is to improve the readability and consistency of Python code.
-PEP stands for Python Enhancement Proposal, and there are several of them. A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.
+Introduced in 2001, PEP 8 is a document that provides guidelines and best practices on how to write Python code. The primary focus of PEP 8 is to improve the readability and consistency of Python code. PEP stands for Python Enhancement Proposal, and there are several of them. A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.
 
 **5. What is Scope in Python?**
 
-A variable is only available from inside the region it is created. This is called scope.
-A variable created inside a function belongs to the local scope of that function, and can only be used inside that function.
-A variable created in the main body of the Python code is a global variable and belongs to the global scope. Global variables are available from within any scope, global and local.
+A variable is only available from inside the region it is created. This is called scope. A variable created inside a function belongs to the local scope of that function, and can only be used inside that function. A variable created in the main body of the Python code is a global variable and belongs to the global scope. Global variables are available from within any scope, global and local.
 
 **6. What are lists, tuples and sets? What is the key difference between them?**
 
-Lists, tuples and sets are used to store multiple items in a single variable.
-A list is a collection which is ordered, changeable, indexed and allows duplicate members.
-A tuple is a collection which is ordered, unchangeable, indexed and allows duplicate members.
-A set is a collection which is unordered, unchangeable*, unindexed and duplicate members are not allowed. *Set items are unchangeable, but you can remove and/or add items whenever you like.
+Lists, tuples and sets are used to store multiple items in a single variable. A list is a collection which is ordered, changeable, indexed and allows duplicate members. A tuple is a collection which is ordered, unchangeable, indexed and allows duplicate members. A set is a collection which is unordered, unchangeable*, unindexed and duplicate members are not allowed. *Set items are unchangeable, but you can remove and/or add items whenever you like.
 
 **7. What are the common built-in data types in Python?**
 
