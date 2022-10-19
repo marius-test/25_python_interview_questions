@@ -156,7 +156,7 @@ Answer:
 
 ## More Questions:
 
-**-What is a statically typed programming language?**
+**What is a statically typed programming language?**
 
 Answer:
 
@@ -164,7 +164,7 @@ Answer:
 
 Examples: ```C, C++, Java, Scala, Haskell```
 
-**-What is an compiled programming language?**
+**What is an compiled programming language?**
 
 Answer:
 
@@ -172,7 +172,7 @@ Answer:
 
 Examples: ```C, C++, C#, COBOL, Java```
 
-**-What is a high-level programming language?**
+**What is a high-level programming language?**
 
 Answer:
 
@@ -180,7 +180,7 @@ Answer:
 
 Examples: ```example1, example2```
 
-**-What is a low-level programming language?**
+**What is a low-level programming language?**
 
 Answer:
 
