@@ -213,10 +213,20 @@ Answer:
 Answer:
 
 ```text
-
+In statically typed languages, type checking is performed during compile time. It means that the type of a variable is known at compile time. Variables generally are not allowed to change types. For some languages, the programmer must specify what type each variable is, other languages offer some form of type inference. 
 ```
 
-Examples: ```example1, example2```
+Examples: ```C, C++, Java, Scala, Haskell```
+
+- What is an compiled programming language?
+
+Answer:
+
+```text
+A compiled language is a programming language that is generally compiled and not interpreted. It is one where the program, once compiled, is expressed in the instructions of the target machine; this machine code is undecipherable by humans.
+```
+
+Examples: ```C, C++, C#, COBOL, Java```
 
 - What is a high-level programming language?
 
@@ -229,16 +239,6 @@ Answer:
 Examples: ```example1, example2```
 
 - What is a low-level programming language?
-
-Answer:
-
-```text
-
-```
-
-Examples: ```example1, example2```
-
-- What is an compiled programming language?
 
 Answer:
 
