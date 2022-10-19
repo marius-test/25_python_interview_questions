@@ -172,21 +172,17 @@ Answer:
 
 Examples: ```C, C++, C#, COBOL, Java```
 
-**What is a high-level programming language?**
+**What is the difference between a high-level and a low-level programming language?**
 
 Answer:
 
-``` ```
+```The main difference between high-level language and low-level language is that, Programmers can easily understand or interpret or compile the high level language in comparison of machine. On the other hand, Machine can easily understand the low level language in comparison of human beings.```
 
-Examples: ```example1, example2```
+High-level: Python, Java, C#, JavaScript
 
-**What is a low-level programming language?**
+Low-level: Rust, Fortran, x86 Assembly, COBOL
 
-Answer:
-
-``` ```
-
-Examples: ```example1, example2```
+```In the old days, C was considered a high-level language. Nowadays C and C++ are considered low-level languages because they have no automatic memory management.```
 
 
 ## !!!WORK_IN_PROGRESS!!!
