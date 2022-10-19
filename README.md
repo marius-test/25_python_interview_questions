@@ -18,11 +18,15 @@ Examples: ```JavaScript, Perl, Python, BASIC```
 
 **4. What is PEP 8 and why is it important?**
 
-```the_answer```
+```PEP 8 is a document that provides guidelines and best practices on how to write Python code. It was written in 2001 by Guido van Rossum, Barry Warsaw, and Nick Coghlan. The primary focus of PEP 8 is to improve the readability and consistency of Python code.
+PEP stands for Python Enhancement Proposal, and there are several of them. A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.```
 
 **5. What is Scope in Python?**
 
-```the_answer```
+```A variable is only available from inside the region it is created. This is called scope.
+A variable created inside a function belongs to the local scope of that function, and can only be used inside that function.
+A variable created in the main body of the Python code is a global variable and belongs to the global scope.
+Global variables are available from within any scope, global and local.```
 
 **6. What are lists, tuples and sets? What is the key difference between them?**
 
