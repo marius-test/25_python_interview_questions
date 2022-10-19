@@ -36,16 +36,16 @@ A set is a collection which is unordered, unchangeable*, unindexed and duplicate
 
 **7. What are the common built-in data types in Python?**
 
-In programming, data type is an important concept. Variables can store data of different types, and different types can do different things. Python has the following data types built-in by default, in these categories:  
+In programming, data type is an important concept. Variables can store data of different types, and different types can do different things. Python has the following data types built-in by default, in these categories:
 
-Text Type: ```str```  
-Numeric Types: ```int, float, complex```  
-Sequence Types: ```list, tuple, range```  
-Mapping Type: ```dict```  
-Set Types: ```set, frozenset```  
-Boolean Type: ```bool```  
-Binary Types: ```bytes, bytearray, memoryview```  
-None Type: ```NoneType```
+* Text Type: ```str```
+* Numeric Types: ```int, float, complex```
+* Sequence Types: ```list, tuple, range```
+* Mapping Type: ```dict```
+* Set Types: ```set, frozenset```
+* Boolean Type: ```bool```
+* Binary Types: ```bytes, bytearray, memoryview```
+* None Type: ```NoneType```
 
 **8. What is ```pass``` in Python?**
 
@@ -99,8 +99,7 @@ Examples: ```C, C++, C#, COBOL, Java```
 
 **What is the difference between a high-level and a low-level programming language?**
 
-The main difference between high-level language and low-level language is that, Programmers can easily understand or interpret or compile the high level language in comparison of machine.  
-On the other hand, Machine can easily understand the low level language in comparison of human beings.
+The main difference between high-level language and low-level language is that, Programmers can easily understand or interpret or compile the high level language in comparison of machine. On the other hand, Machine can easily understand the low level language in comparison of human beings.
 
 High-level: ```Python, Java, C#, JavaScript```
 
