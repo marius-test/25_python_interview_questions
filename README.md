@@ -2,13 +2,9 @@
 
 **1. What is Python? What are the advantages of using Python?**
 
-Answer:
-
 ```Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.```
 
 **2. What is a dynamically typed programming language?**
-
-Answer:
 
 ```In dynamically typed programming languages, type checking is performed at runtime. This means that variables are checked against types only when the program is executing and also that the type of a variable is allowed to change over its lifetime.```
 
@@ -16,145 +12,99 @@ Examples: ```Python, JavaScript, Lisp, PHP, Ruby, Perl, Lua```
 
 **3. What is an interpreted programming language?**
 
-Answer:
-
 ```An interpreted language is a programming language that is generally interpreted, without compiling a program into machine instructions. It is one where the instructions are not directly executed by the target machine, but instead, read and executed by some other program.```
 
 Examples: ```JavaScript, Perl, Python, BASIC```
 
 **4. What is PEP 8 and why is it important?**
 
-Answer:
-
 ```the_answer```
 
 **5. What is Scope in Python?**
-
-Answer:
 
 ```the_answer```
 
 **6. What are lists, tuples and sets? What is the key difference between them?**
 
-Answer:
-
 ```the_answer```
 
 **7. What are the common built-in data types in Python?**
-
-Answer:
 
 ```the_answer```
 
 **8. What is ```pass``` in Python?**
 
-Answer:
-
 ```the_answer```
 
 **9. What is the main() function in Python?**
-
-Answer:
 
 ```the_answer```
 
 **10. What are global, protected and private attributes in Python?**
 
-Answer:
-
 ```the_answer```
 
 **11. What is the use of ```self``` in Python?**
-
-Answer:
 
 ```the_answer```
 
 **12. What is ```__init__``` in Python?**
 
-Answer:
-
 ```the_answer```
 
 **13. What is ```break```, ```continue``` and ```pass``` in Python?**
-
-Answer:
 
 ```the_answer```
 
 **14. What are unit tests in Python?**
 
-Answer:
-
 ```the_answer```
 
 **15. What is docstring in Python?**
-
-Answer:
 
 ```the_answer```
 
 **16. What is slicing in Python?**
 
-Answer:
-
 ```the_answer```
 
 **17. What is the difference between Python arrays and lists?**
-
-Answer:
 
 ```the_answer```
 
 **18. How is memory managed in Python?**
 
-Answer:
-
 ```the_answer```
 
 **19. What are Python namespaces? Why are they used?**
-
-Answer:
 
 ```the_answer```
 
 **20. What is Scope Resolution in Python?**
 
-Answer:
-
 ```the_answer```
 
 **21. What are decorators in Python?**
-
-Answer:
 
 ```the_answer```
 
 **22. What are Dict and List comprehensions?**
 
-Answer:
-
 ```the_answer```
 
 **23. What is the ```lambda``` function? Why is it used?**
-
-Answer:
 
 ```the_answer```
 
 **24. How do you copy and object in Python?**
 
-Answer:
-
 ```the_answer```
 
 **25. What is the difference between ```xrange``` and ```range``` in Python?**
 
-Answer:
-
 ```the_answer```
 
-## More Questions:
+## More Questions
 
 **What is a statically typed programming language?**
 
