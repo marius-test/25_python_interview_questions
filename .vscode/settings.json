@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
+        "bytearray",
+        "frozenset",
+        "memoryview",
         "xrange"
     ]
 }

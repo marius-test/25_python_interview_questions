@@ -18,7 +18,7 @@ Examples: ```JavaScript, Perl, Python, BASIC```
 
 **4. What is PEP 8 and why is it important?**
 
-```PEP 8 is a document that provides guidelines and best practices on how to write Python code. It was written in 2001 by Guido van Rossum, Barry Warsaw, and Nick Coghlan. The primary focus of PEP 8 is to improve the readability and consistency of Python code. PEP stands for Python Enhancement Proposal, and there are several of them. A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.```
+```Introduced in 2001, PEP 8 is a document that provides guidelines and best practices on how to write Python code. The primary focus of PEP 8 is to improve the readability and consistency of Python code. PEP stands for Python Enhancement Proposal, and there are several of them. A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.```
 
 **5. What is Scope in Python?**
 
@@ -30,7 +30,18 @@ Examples: ```JavaScript, Perl, Python, BASIC```
 
 **7. What are the common built-in data types in Python?**
 
-```the_answer```
+```In programming, data type is an important concept. Variables can store data of different types, and different types can do different things. Python has the following data types built-in by default, in these categories:```
+
+```text
+Text Type: str
+Numeric Types: int, float, complex
+Sequence Types: list, tuple, range
+Mapping Type: dict
+Set Types: set, frozenset
+Boolean Type: bool
+Binary Types: bytes, bytearray, memoryview
+None Type: NoneType
+```
 
 **8. What is ```pass``` in Python?**
 
