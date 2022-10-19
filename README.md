@@ -18,8 +18,7 @@ Examples: ```JavaScript, Perl, Python, BASIC```
 
 **4. What is PEP 8 and why is it important?**
 
-```PEP 8 is a document that provides guidelines and best practices on how to write Python code. It was written in 2001 by Guido van Rossum, Barry Warsaw, and Nick Coghlan. The primary focus of PEP 8 is to improve the readability and consistency of Python code.```
-```PEP stands for Python Enhancement Proposal, and there are several of them. A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.```
+```PEP 8 is a document that provides guidelines and best practices on how to write Python code. It was written in 2001 by Guido van Rossum, Barry Warsaw, and Nick Coghlan. The primary focus of PEP 8 is to improve the readability and consistency of Python code. PEP stands for Python Enhancement Proposal, and there are several of them. A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.```
 
 **5. What is Scope in Python?**
 
@@ -27,7 +26,7 @@ Examples: ```JavaScript, Perl, Python, BASIC```
 
 **6. What are lists, tuples and sets? What is the key difference between them?**
 
-```the_answer```
+```Lists, tuples and sets are used to store multiple items in a single variable. List is a collection which is ordered and changeable; allows duplicate members. Tuple is a collection which is ordered and unchangeable; allows duplicate members. Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members. *Set items are unchangeable, but you can remove and/or add items whenever you like.```
 
 **7. What are the common built-in data types in Python?**
 
