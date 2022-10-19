@@ -14,7 +14,7 @@ Answer:
 
 Examples: ```Python, JavaScript, Lisp, PHP, Ruby, Perl, Lua```
 
-3. What is an interpreted programming language?
+**3. What is an interpreted programming language?**
 
 Answer:
 
@@ -22,135 +22,133 @@ Answer:
 
 Examples: ```JavaScript, Perl, Python, BASIC```
 
-4. What is PEP 8 and why is it important?
+**4. What is PEP 8 and why is it important?**
 
 Answer:
 
 ``` ```
 
-5. What is Scope in Python?
+**5. What is Scope in Python?**
 
 Answer:
 
 ``` ```
 
-6. What are lists, tuples and sets? What is the key difference between them?
-
-Bonus: Dictionaries
+**6. What are lists, tuples and sets? What is the key difference between them?**
 
 Answer:
 
 ``` ```
 
-7. What are the common built-in data types in Python?
+**7. What are the common built-in data types in Python?**
 
 Answer:
 
 ``` ```
 
-8. What is ```pass``` in Python?
+**8. What is ```pass``` in Python?**
 
 Answer:
 
 ``` ```
 
-9. What is the main() function in Python?
+**9. What is the main() function in Python?**
 
 Answer:
 
 ``` ```
 
-10. What are global, protected and private attributes in Python?
+**10. What are global, protected and private attributes in Python?**
 
 Answer:
 
 ``` ```
 
-11. What is the use of ```self``` in Python?
+**11. What is the use of ```self``` in Python?**
 
 Answer:
 
 ``` ```
 
-12. What is ```__init__``` in Python?
+**12. What is ```__init__``` in Python?**
 
 Answer:
 
 ``` ```
 
-13. What is ```break```, ```continue``` and ```pass``` in Python?
+**13. What is ```break```, ```continue``` and ```pass``` in Python?**
 
 Answer:
 
 ``` ```
 
-14. What are unit tests in Python?
+**14. What are unit tests in Python?**
 
 Answer:
 
 ``` ```
 
-15. What is docstring in Python?
+**15. What is docstring in Python?**
 
 Answer:
 
 ``` ```
 
-16. What is slicing in Python?
+**16. What is slicing in Python?**
 
 Answer:
 
 ``` ```
 
-17. What is the difference between Python arrays and lists?
+**17. What is the difference between Python arrays and lists?**
 
 Answer:
 
 ``` ```
 
-18. How is memory managed in Python?
+**18. How is memory managed in Python?**
 
 Answer:
 
 ``` ```
 
-19. What are Python namespaces? Why are they used?
+**19. What are Python namespaces? Why are they used?**
 
 Answer:
 
 ``` ```
 
-20. What is Scope Resolution in Python?
+**20. What is Scope Resolution in Python?**
 
 Answer:
 
 ``` ```
 
-21. What are decorators in Python?
+**21. What are decorators in Python?**
 
 Answer:
 
 ``` ```
 
-22. What are Dict and List comprehensions?
+**22. What are Dict and List comprehensions?**
 
 Answer:
 
 ``` ```
 
-23. What is the ```lambda``` function? Why is it used?
+**23. What is the ```lambda``` function? Why is it used?**
 
 Answer:
 
 ``` ```
 
-24. How do you copy and object in Python?
+**24. How do you copy and object in Python?**
 
 Answer:
 
 ``` ```
 
-25. What is the difference between ```xrange``` and ```range``` in Python?
+**25. What is the difference between ```xrange``` and ```range``` in Python?**
 
 Answer:
 
@@ -158,7 +156,7 @@ Answer:
 
 ## More Questions:
 
-- What is a statically typed programming language?
+**- What is a statically typed programming language?**
 
 Answer:
 
@@ -166,7 +164,7 @@ Answer:
 
 Examples: ```C, C++, Java, Scala, Haskell```
 
-- What is an compiled programming language?
+**- What is an compiled programming language?**
 
 Answer:
 
@@ -174,7 +172,7 @@ Answer:
 
 Examples: ```C, C++, C#, COBOL, Java```
 
-- What is a high-level programming language?
+**- What is a high-level programming language?**
 
 Answer:
 
@@ -182,7 +180,7 @@ Answer:
 
 Examples: ```example1, example2```
 
-- What is a low-level programming language?
+**- What is a low-level programming language?**
 
 Answer:
 
