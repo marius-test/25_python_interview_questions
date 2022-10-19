@@ -26,7 +26,7 @@ Examples: ```JavaScript, Perl, Python, BASIC```
 
 **6. What are lists, tuples and sets? What is the key difference between them?**
 
-```Lists, tuples and sets are used to store multiple items in a single variable. List is a collection which is ordered and changeable; allows duplicate members. Tuple is a collection which is ordered and unchangeable; allows duplicate members. Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members. *Set items are unchangeable, but you can remove and/or add items whenever you like.```
+```Lists, tuples and sets are used to store multiple items in a single variable. List is a collection which is ordered, changeable, indexed and allows duplicate members. Tuple is a collection which is ordered, unchangeable, indexed and allows duplicate members. Set is a collection which is unordered, unchangeable*, unindexed and duplicate members are not allowed. *Set items are unchangeable, but you can remove and/or add items whenever you like.```
 
 **7. What are the common built-in data types in Python?**
 
