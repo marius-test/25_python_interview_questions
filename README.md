@@ -1,4 +1,4 @@
-# 25 Python Interview Questions
+# Python Interview Questions
 
 1. What is Python? What are the benefits of using Python?
 
@@ -8,7 +8,9 @@ Answer:
 
 ```
 
-2. What is a dynamically typed language? What about statically? Give examples of both.
+2. What is a dynamically typed language?
+
+Bonus: Examples
 
 Answer:
 
@@ -16,7 +18,9 @@ Answer:
 
 ```
 
-3. What is an interpreted language? What about compiled? Give examples of both.
+3. What is a statically typed language?
+
+Bonus: Examples
 
 Answer:
 
@@ -24,7 +28,9 @@ Answer:
 
 ```
 
-4. Question?
+4. What is an interpreted language?
+
+Bonus: Examples
 
 Answer:
 
@@ -32,7 +38,9 @@ Answer:
 
 ```
 
-5. Question?
+5. What is an compiled language?
+
+Bonus: Examples
 
 Answer:
 
@@ -40,7 +48,7 @@ Answer:
 
 ```
 
-6. Question?
+6. What is PEP 8 and why is it important?
 
 Answer:
 
@@ -48,7 +56,7 @@ Answer:
 
 ```
 
-7. Question?
+7. What is Scope in Python?
 
 Answer:
 
@@ -56,7 +64,9 @@ Answer:
 
 ```
 
-8. Question?
+8. What are lists, tuples and sets? What is the key difference between them?
+
+Bonus: Dictionaries
 
 Answer:
 
@@ -64,7 +74,7 @@ Answer:
 
 ```
 
-9. Question?
+9. What are the common built-in data types in Python?
 
 Answer:
 
@@ -72,7 +82,7 @@ Answer:
 
 ```
 
-10. Question?
+10. What is ```pass``` in Python?
 
 Answer:
 
@@ -80,7 +90,7 @@ Answer:
 
 ```
 
-11. Question?
+11. What are global, protected and private attributes in Python?
 
 Answer:
 
@@ -88,7 +98,7 @@ Answer:
 
 ```
 
-12. Question?
+12. What is the use of ```self``` in Python?
 
 Answer:
 
@@ -96,7 +106,7 @@ Answer:
 
 ```
 
-13. Question?
+13. What is ```__init__``` in Python?
 
 Answer:
 
@@ -104,7 +114,7 @@ Answer:
 
 ```
 
-14. Question?
+14. What is ```break```, ```continue``` and ```pass``` in Python?
 
 Answer:
 
@@ -112,7 +122,7 @@ Answer:
 
 ```
 
-15. Question?
+15. What are unit tests in Python?
 
 Answer:
 
@@ -120,7 +130,7 @@ Answer:
 
 ```
 
-16. Question?
+16. What is docstring in Python?
 
 Answer:
 
@@ -128,7 +138,7 @@ Answer:
 
 ```
 
-17. Question?
+17. What is slicing in Python?
 
 Answer:
 
@@ -136,7 +146,7 @@ Answer:
 
 ```
 
-18. Question?
+18. What is the difference between Python arrays and lists?
 
 Answer:
 
@@ -144,7 +154,7 @@ Answer:
 
 ```
 
-19. Question?
+19. How is memory managed in Python?
 
 Answer:
 
@@ -152,7 +162,7 @@ Answer:
 
 ```
 
-20. Question?
+20. What are Python namespaces? Why are they used?
 
 Answer:
 
@@ -160,7 +170,7 @@ Answer:
 
 ```
 
-21. Question?
+21. What is Scope Resolution in Python?
 
 Answer:
 
@@ -168,7 +178,7 @@ Answer:
 
 ```
 
-22. Question?
+22. What are decorators in Python?
 
 Answer:
 
@@ -176,7 +186,7 @@ Answer:
 
 ```
 
-23. Question?
+23. What are Dict and List comprehensions?
 
 Answer:
 
@@ -184,7 +194,7 @@ Answer:
 
 ```
 
-24 Question?
+24. What is the ```lambda``` function? Why is it used?
 
 Answer:
 
@@ -192,12 +202,21 @@ Answer:
 
 ```
 
-25. Question?
+25. How do you copy and object in Python?
 
 Answer:
 
 ```text
 
 ```
+
+26 What is the difference between ```xrange``` and ```range``` in Python?
+
+Answer:
+
+```text
+
+```
+
 
 ## !!!WORK_IN_PROGRESS!!!
