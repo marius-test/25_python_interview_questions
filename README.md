@@ -206,7 +206,7 @@ Answer:
 
 ```
 
-## Bonus:
+## More Questions:
 
 - What is a statically typed programming language?
 
