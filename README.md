@@ -49,7 +49,40 @@ In programming, data type is an important concept. Variables can store data of d
 
 **8. What is ```pass``` in Python?**
 
+The ```pass``` statement is used as a placeholder for future code.  
+When the ```pass``` statement is executed, nothing happens, but you avoid getting an error when empty code is not allowed.
+
 **9. What is the main() function in Python?**
+
+In Python the ```main()``` function is the entry point of the program. The Python interpreter executes the from the first line of the program and it goes line by line.
+So in conclusion Python doesn't have a ```main()``` function or it is considered to be the current module.
+
+Workaround:
+
+```python
+# This will be executed when the current module is imported
+# because it is outside our function
+print("Hi there!")
+
+
+# This will not be executed when the module is imported
+# because it is just a function definition
+# a function runs when it is called
+def hello():
+    print("Hello World!")
+
+
+# If we want to run the hello() function
+# we can use the following statement
+if __name__ == '__main__':
+    hello()
+
+
+# because Python assigns the name '__main__' to the current module when it is executed directly
+# but not when it is imported
+
+# __name__ is a special variable, it is the name Python assigns automatically to the current module
+```
 
 **10. What are global, protected and private attributes in Python?**
 
