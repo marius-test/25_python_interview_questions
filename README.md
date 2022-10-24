@@ -84,7 +84,13 @@ if __name__ == '__main__':
 # __name__ is a special variable, it is the name Python assigns automatically to the current module
 ```
 
-**10. What are global, protected and private attributes in Python?**
+**10. What are public, protected and private variables in Python?**
+
+All members of a class are by default ```public``` in Python. These members can be accessed outside of the class, and their values can be modified too.
+
+```protected``` members of a class can be accessed by other members within the class and are also available to their subclasses.
+
+The ```private``` members of a class are only accessible within the class. In Python, a private member can be defined by using a prefix __ (double underscore).
 
 **11. What is the use of ```self``` in Python?**
 
