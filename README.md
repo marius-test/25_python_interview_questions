@@ -50,7 +50,8 @@ In programming, data type is an important concept. Variables can store data of d
 **8. What is ```pass``` in Python?**
 
 The ```pass``` statement is used as a placeholder for future code.  
-When the ```pass``` statement is executed, nothing happens, but you avoid getting an error when empty code is not allowed.
+When the ```pass``` statement is executed, nothing happens, but you avoid getting an error when empty code is not allowed.  
+Empty code is not allowed in loops, function definitions, class definitions, or in if statements.
 
 **9. What is the main() function in Python?**
 
@@ -83,10 +84,10 @@ if __name__ == '__main__':
 
 **10. What are public, protected and private variables in Python?**
 
-All members of a class are by default ```public``` in Python. These members can be accessed outside of the class, and their values can be modified too.
-
-```protected``` members of a class can be accessed by other members within the class and are also available to their subclasses.
-
+All members of a class are by default ```public``` in Python. These members can be accessed outside of the class, and their values can be modified too.  
+  
+```protected``` members of a class can be accessed by other members within the class and are also available to their subclasses.  
+  
 The ```private``` members of a class are only accessible within the class. In Python, a private member can be defined by using a prefix __ (double underscore).
 
 **11. What is the use of ```self``` in Python?**
@@ -97,15 +98,31 @@ The ```private``` members of a class are only accessible within the class. In Py
 
 ```__init__``` is a reserved method in python classes. It is known as a constructor in object oriented concepts. This method called when an object is created from the class and it allow the class to initialize the attributes of a class.
 
-**13. What is ```break```, ```continue``` and ```pass``` in Python?**
+**13. What is ```break``` and ```continue``` in Python?**
 
-**14. What are unit tests in Python?**
+The ```break``` keyword is used to break out a ```for``` loop, or a ```while``` loop.  
+  
+The ```continue``` keyword is used to end the current iteration in a ```for``` loop (or a ```while``` loop), and continues to the next iteration.
+
+**14. What is a unit test in Python?**
+
+A unit test is a test that checks a single component of code, usually modularized as a function, and ensures that it performs as expected. Unit tests are an important part of regression testing to ensure that the code still functions as expected after making changes to the code and helps ensure code stability.
 
 **15. What is docstring in Python?**
 
+Python docstrings are the string literals that appear right after the definition of a function, method, class, or module.
+
 **16. What is slicing in Python?**
 
+Slicing in Python is a feature that enables accessing parts of sequences like *strings*, *tuples*, and *lists*. You can also use them to modify or delete the items of mutable sequences such as *lists*.
+
 **17. What is the difference between Python arrays and lists?**
+
+Lists and arrays behave similarly. Just like arrays, lists are an ordered sequence of elements. They are also mutable and not fixed in size, which means they can grow and shrink throughout the life of the program. Items can be added and removed, making them very flexible to work with.  
+  
+Lists store items that are of various data types. This means that a list can contain integers, floating point numbers, strings, or any other Python data type, at the same time.  
+  
+Arrays store only items that are of the same single data type. There are arrays that contain only integers, or only floating point numbers for example.
 
 **18. How is memory managed in Python?**
 
