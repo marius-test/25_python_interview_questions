@@ -64,19 +64,16 @@ Workaround:
 # because it is outside our function
 print("Hi there!")
 
-
 # This will not be executed when the module is imported
 # because it is just a function definition
 # a function runs when it is called
 def hello():
     print("Hello World!")
 
-
 # If we want to run the hello() function
 # we can use the following statement
 if __name__ == '__main__':
     hello()
-
 
 # because Python assigns the name '__main__' to the current module when it is executed directly
 # but not when it is imported
@@ -94,7 +91,11 @@ The ```private``` members of a class are only accessible within the class. In Py
 
 **11. What is the use of ```self``` in Python?**
 
+```self``` represents the instance of the class. By using the "self"  we can access the attributes and methods of the class in python. It binds the attributes with the given arguments.
+
 **12. What is ```__init__``` in Python?**
+
+```__init__``` is a reserved method in python classes. It is known as a constructor in object oriented concepts. This method called when an object is created from the class and it allow the class to initialize the attributes of a class.
 
 **13. What is ```break```, ```continue``` and ```pass``` in Python?**
 
