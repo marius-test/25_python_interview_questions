@@ -1,4 +1,4 @@
-# 25 Python Interview Questions
+# 25_python_interview_questions
 
 **1. What is Python? What are the advantages of using Python?**
 
