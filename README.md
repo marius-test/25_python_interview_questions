@@ -32,7 +32,7 @@ A variable created in the main body of the Python code is a global variable and 
 Lists, tuples and sets are used to store multiple items in a single variable.  
 A list is a collection which is ordered, changeable, indexed and allows duplicate members.  
 A tuple is a collection which is ordered, unchangeable, indexed and allows duplicate members.  
-A set is a collection which is unordered, unchangeable*, unindexed and duplicate members are not allowed. *Set items are unchangeable, but you can remove and/or add items whenever you like.
+A set is a collection which is unordered, unchangeable\*, unindexed and duplicate members are not allowed. \*Set items are unchangeable, but you can remove and/or add items whenever you like.
 
 **7. What are the common built-in data types in Python?**
 
@@ -190,8 +190,3 @@ High-level: ```Python, Java, C#, JavaScript```
 Low-level: ```Rust, Fortran, x86 Assembly, COBOL```
 
 In the old days, C was considered a high-level language. Nowadays C and C++ are considered low-level languages because they have no automatic memory management.
-<<<<<<< HEAD
-=======
-
-## This project is in progress...
->>>>>>> f365e84729831d18cee60a02754d6fb516295452
