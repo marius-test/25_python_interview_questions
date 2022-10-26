@@ -126,19 +126,46 @@ Arrays store only items that are of the same single data type. There are arrays 
 
 **18. How is memory managed in Python?**
 
-**19. What are Python namespaces? Why are they used?**
+Memory management in Python involves a private heap containing all Python objects and data structures. The management of this private heap is ensured internally by the Python memory manager.
 
-**20. What is Scope Resolution in Python?**
+**19. What are Python namespaces?**
+
+A namespace is a system that has a unique name for each and every object in Python. An object might be a variable or a method. Python itself maintains a namespace in the form of a Python dictionary. Let’s go through an example, a directory-file system structure in computers.
+
+**20. What is Scope resolution in Python?**
+
+Scope resolution is required when a variable is used to determine where should its value be come from.  
+Scope resolution in Python follows the LEGB rule.  
+
+* L, Local — Names assigned in any way within a function (or lambda), and not declared global in that function.
+* E, Enclosing-function locals — Name in the local scope of any and all statically enclosing functions(or lambdas), from inner to outer.
+* G, Global (module) — Names assigned at the top-level of a module file, or by executing a global statement in a def within the file.
+* B, Built-in (Python) — Names preassigned in the built-in names module : open, range,SyntaxError, etc.
 
 **21. What are decorators in Python?**
 
-**22. What are Dict and List comprehensions?**
+A decorator is a design pattern in Python that allows a user to add new functionality to an existing object without modifying its structure. Decorators are usually called before the definition of a function you want to decorate.
+
+**22. What are List and Dict comprehensions?**
+
+Python comprehensions are syntactic sugar constructs that provide a way to build a list, dictionary or set from a starting list, dictionary or set whilst altering or filtering elements.  
+Comprehensions follow mathematical set builder notation rather than map and filter functions.
 
 **23. What is the ```lambda``` function? Why is it used?**
 
-**24. How do you copy and object in Python?**
+A lambda function is a small anonymous function.  
+A lambda function can take any number of arguments, but can only have one expression.
+
+**24. How do you copy an object in Python?**
+
+In Python, we use ```=``` operator to create a copy of an object. You may think that this creates a new object; it doesn't. It only creates a new variable that shares the reference of the original object.
 
 **25. What is the difference between ```xrange``` and ```range``` in Python?**
+
+The ```range()``` and ```xrange()``` are two functions that could be used to iterate a certain number of times in ```for``` loops in Python. In Python 3, there is no xrange, but the range function behaves like xrange in Python 2.  
+
+* ```range()``` – This returns a range object (a type of iterable).
+* ```xrange()``` – This function returns the generator object that can be used to display numbers only by looping. The only particular range is displayed on demand and hence called “lazy evaluation“.
 
 ## More Questions
 
@@ -163,5 +190,3 @@ High-level: ```Python, Java, C#, JavaScript```
 Low-level: ```Rust, Fortran, x86 Assembly, COBOL```
 
 In the old days, C was considered a high-level language. Nowadays C and C++ are considered low-level languages because they have no automatic memory management.
-
-## Work in progress...

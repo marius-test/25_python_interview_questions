@@ -3,8 +3,10 @@
         "bytearray",
         "docstrings",
         "frozenset",
+        "LEGB",
         "memoryview",
         "unindexed",
         "xrange"
-    ]
+    ],
+    "cSpell.language": "en,lorem,en-US,en-GB"
 }
