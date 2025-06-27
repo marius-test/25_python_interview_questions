@@ -72,3 +72,46 @@ The `pass` statement is a no-operation placeholder used when a statement is synt
 
 ---
 
+**9. What is the main() function in Python?**
+
+Python does not have a built-in `main()` function like some other languages. The interpreter runs the script from the top line down, executing all top-level code.
+
+To simulate a `main()` entry point, the common pattern is:
+
+```python
+# This runs on import, since it's top-level code
+print("Hi there!")
+
+def hello():
+    print("Hello World!")
+
+# This runs only if the script is executed directly, not when imported
+if __name__ == '__main__':
+    hello()
+
+---
+
+**10. What are public, protected and private variables in Python?**
+
+- **Public** members are accessible from anywhere — inside or outside the class.  
+- **Protected** members (by convention) use a single underscore prefix `_` and are intended for internal use within the class and subclasses.  
+- **Private** members use a double underscore prefix `__` and are name-mangled to be accessible only within the class.
+
+---
+
+**11. What is the use of `self` in Python?**
+
+`self` represents the instance of the class. It allows access to instance attributes and methods, binding them to the current object.
+
+---
+
+**12. What is `__init__` in Python?**
+
+`__init__` is the constructor method called automatically when an object is instantiated. It initializes the object's attributes.
+
+---
+
+**13. What is `break` and `continue` in Python?**
+
+- `break` exits the nearest enclosing loop immediately.  
+- `continue` skips the rest of the current loop iteration and proceeds to the next iteration.
