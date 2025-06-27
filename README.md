@@ -44,6 +44,8 @@ A list is a collection which is ordered, changeable, indexed and allows duplicat
 A tuple is a collection which is ordered, unchangeable, indexed and allows duplicate members.  
 A set is a collection which is unordered, unchangeable\*, unindexed and duplicate members are not allowed. \*Set items are unchangeable, but you can remove and/or add items whenever you like.
 
+---
+
 **7. What are the common built-in data types in Python?**
 
 In programming, data type is an important concept. Variables can store data of different types, and different types can do different things. Python has the following data types built-in by default, in these categories:
@@ -57,11 +59,15 @@ In programming, data type is an important concept. Variables can store data of d
 * Binary Types: ```bytes, bytearray, memoryview```
 * None Type: ```NoneType```
 
+---
+
 **8. What is ```pass``` in Python?**
 
 The ```pass``` statement is used as a placeholder for future code.  
 When the ```pass``` statement is executed, nothing happens, but you avoid getting an error when empty code is not allowed.  
 Empty code is not allowed in loops, function definitions, class definitions, or in if statements.
+
+---
 
 **9. What is the main() function in Python?**
 
@@ -92,6 +98,8 @@ if __name__ == '__main__':
 # __name__ is a special variable, it is the name Python assigns automatically to the current module
 ```
 
+---
+
 **10. What are public, protected and private variables in Python?**
 
 All members of a class are by default ```public``` in Python. These members can be accessed outside of the class, and their values can be modified too.  
@@ -100,13 +108,19 @@ All members of a class are by default ```public``` in Python. These members can 
   
 The ```private``` members of a class are only accessible within the class. In Python, a private member can be defined by using a prefix __ (double underscore).
 
+---
+
 **11. What is the use of ```self``` in Python?**
 
 ```self``` represents the instance of the class. By using the "self"  we can access the attributes and methods of the class in python. It binds the attributes with the given arguments.
 
+---
+
 **12. What is ```__init__``` in Python?**
 
 ```__init__``` is a reserved method in python classes. It is known as a constructor in object oriented concepts. This method called when an object is created from the class and it allow the class to initialize the attributes of a class.
+
+---
 
 **13. What is ```break``` and ```continue``` in Python?**
 
@@ -114,17 +128,25 @@ The ```break``` keyword is used to break out a ```for``` loop, or a ```while``` 
   
 The ```continue``` keyword is used to end the current iteration in a ```for``` loop (or a ```while``` loop), and continues to the next iteration.
 
+---
+
 **14. What is a unit test in Python?**
 
 A unit test is a test that checks a single component of code, usually modularized as a function, and ensures that it performs as expected. Unit tests are an important part of regression testing to ensure that the code still functions as expected after making changes to the code and helps ensure code stability.
+
+---
 
 **15. What is docstring in Python?**
 
 Python docstrings are the string literals that appear right after the definition of a function, method, class, or module.
 
+---
+
 **16. What is slicing in Python?**
 
 Slicing in Python is a feature that enables accessing parts of sequences like *strings*, *tuples*, and *lists*. You can also use them to modify or delete the items of mutable sequences such as *lists*.
+
+---
 
 **17. What is the difference between Python arrays and lists?**
 
@@ -134,13 +156,19 @@ Lists store items that are of various data types. This means that a list can con
   
 Arrays store only items that are of the same single data type. There are arrays that contain only integers, or only floating point numbers for example.
 
+---
+
 **18. How is memory managed in Python?**
 
 Memory management in Python involves a private heap containing all Python objects and data structures. The management of this private heap is ensured internally by the Python memory manager.
 
+---
+
 **19. What are Python namespaces?**
 
 A namespace is a system that has a unique name for each and every object in Python. An object might be a variable or a method. Python itself maintains a namespace in the form of a Python dictionary. Let’s go through an example, a directory-file system structure in computers.
+
+---
 
 **20. What is Scope resolution in Python?**
 
@@ -152,23 +180,33 @@ Scope resolution in Python follows the LEGB rule.
 * G, Global (module) — Names assigned at the top-level of a module file, or by executing a global statement in a def within the file.
 * B, Built-in (Python) — Names preassigned in the built-in names module : open, range,SyntaxError, etc.
 
+---
+
 **21. What are decorators in Python?**
 
 A decorator is a design pattern in Python that allows a user to add new functionality to an existing object without modifying its structure. Decorators are usually called before the definition of a function you want to decorate.
+
+---
 
 **22. What are List and Dict comprehensions?**
 
 Python comprehensions are syntactic sugar constructs that provide a way to build a list, dictionary or set from a starting list, dictionary or set whilst altering or filtering elements.  
 Comprehensions follow mathematical set builder notation rather than map and filter functions.
 
+---
+
 **23. What is the ```lambda``` function? Why is it used?**
 
 A lambda function is a small anonymous function.  
 A lambda function can take any number of arguments, but can only have one expression.
 
+---
+
 **24. How do you copy an object in Python?**
 
 In Python, we use ```=``` operator to create a copy of an object. You may think that this creates a new object; it doesn't. It only creates a new variable that shares the reference of the original object.
+
+---
 
 **25. What is the difference between ```xrange``` and ```range``` in Python?**
 
@@ -185,11 +223,15 @@ In statically typed languages, type checking is performed during compile time. I
 
 Examples: ```C, C++, Java, Scala, Haskell```
 
+---
+
 **What is an compiled programming language?**
 
 A compiled language is a programming language that is generally compiled and not interpreted. It is one where the program, once compiled, is expressed in the instructions of the target machine; this machine code is undecipherable by humans.
 
 Examples: ```C, C++, C#, COBOL, Java```
+
+---
 
 **What is the difference between a high-level and a low-level programming language?**
 
