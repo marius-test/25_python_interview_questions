@@ -4,11 +4,15 @@
 
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
 
+---
+
 **2. What is a dynamically typed programming language?**
 
 In dynamically typed programming languages, type checking is performed at runtime. This means that variables are checked against types only when the program is executing and also that the type of a variable is allowed to change over its lifetime.
 
 Examples: ```Python, JavaScript, Lisp, PHP, Ruby, Perl, Lua```
+
+---
 
 **3. What is an interpreted programming language?**
 
@@ -16,16 +20,22 @@ An interpreted language is a programming language that is generally interpreted,
 
 Examples: ```JavaScript, Perl, Python, BASIC```
 
+---
+
 **4. What is PEP 8 and why is it important?**
 
 Introduced in 2001, PEP 8 is a document that provides guidelines and best practices on how to write Python code. The primary focus of PEP 8 is to improve the readability and consistency of Python code.  
 PEP stands for Python Enhancement Proposal, and there are several of them. A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.
+
+---
 
 **5. What is Scope in Python?**
 
 A variable is only available from inside the region it is created. This is called scope.  
 A variable created inside a function belongs to the local scope of that function, and can only be used inside that function.  
 A variable created in the main body of the Python code is a global variable and belongs to the global scope. Global variables are available from within any scope, global and local.
+
+---
 
 **6. What are lists, tuples and sets? What is the key difference between them?**
 
