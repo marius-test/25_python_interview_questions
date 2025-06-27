@@ -4,6 +4,8 @@
 
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
 
+---
+
 **2. What is a dynamically typed programming language?**
 
 In dynamically typed programming languages, type checking is performed at runtime. This means that variables are checked against types only when the program is executing and that the type of a variable can change over its lifetime.
