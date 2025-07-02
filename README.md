@@ -215,7 +215,7 @@ The ```range()``` and ```xrange()``` are two functions that could be used to ite
 * ```range()``` – This returns a range object (a type of iterable).
 * ```xrange()``` – This function returns the generator object that can be used to display numbers only by looping. The only particular range is displayed on demand and hence called “lazy evaluation“.
 
-## More Questions
+### More Questions
 
 **What is a statically typed programming language?**
 
