@@ -190,8 +190,8 @@ A decorator is a design pattern in Python that allows a user to add new function
 
 **22. What are List and Dict comprehensions?**
 
-Python comprehensions are syntactic sugar constructs that provide a way to build a list, dictionary or set from a starting list, dictionary or set whilst altering or filtering elements.  
-Comprehensions follow mathematical set builder notation rather than map and filter functions.
+Python comprehensions are shortcuts that let you create new lists, dictionaries, or sets from existing ones by changing or filtering their items. They are easier to read and write than using loops or functions like `map` and `filter`.
+Comprehensions are similar to the way sets are described in math.
 
 ---
 
