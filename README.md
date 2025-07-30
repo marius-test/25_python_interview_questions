@@ -166,7 +166,7 @@ Memory management in Python involves a private heap containing all Python object
 
 **19. What are Python namespaces?**
 
-A namespace is a system that has a unique name for each and every object in Python. An object might be a variable or a method. Python itself maintains a namespace in the form of a Python dictionary. Let’s go through an example, a directory-file system structure in computers.
+A namespace in Python is a container that holds unique names for objects like variables or functions. It’s like a folder where each file (name) is unique. Python uses namespaces (like dictionaries) to keep track of names and avoid conflicts between objects with the same name in different parts of the program.
 
 ---
 
