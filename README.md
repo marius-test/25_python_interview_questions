@@ -175,10 +175,10 @@ A namespace in Python is a container that holds unique names for objects like va
 Scope resolution is required when a variable is used to determine where should its value be come from.  
 Scope resolution in Python follows the LEGB rule.  
 
-* L, Local — Names assigned in any way within a function (or lambda), and not declared global in that function.
-* E, Enclosing-function locals — Name in the local scope of any and all statically enclosing functions(or lambdas), from inner to outer.
-* G, Global (module) — Names assigned at the top-level of a module file, or by executing a global statement in a def within the file.
-* B, Built-in (Python) — Names preassigned in the built-in names module : open, range,SyntaxError, etc.
+* L, Local - Names assigned in any way within a function (or lambda), and not declared global in that function.
+* E, Enclosing-function locals - Name in the local scope of any and all statically enclosing functions(or lambdas), from inner to outer.
+* G, Global (module) - Names assigned at the top-level of a module file, or by executing a global statement in a def within the file.
+* B, Built-in (Python) - Names preassigned in the built-in names module : open, range, SyntaxError, etc.
 
 ---
 
