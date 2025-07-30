@@ -204,7 +204,10 @@ A lambda function can take any number of arguments, but can only have one expres
 
 **24. How do you copy an object in Python?**
 
-In Python, we use ```=``` operator to create a copy of an object. You may think that this creates a new object; it doesn't. It only creates a new variable that shares the reference of the original object.
+Using `=` creates a new reference to the **same** object, not a copy. To actually copy objects, use the `copy` module:
+
+- `copy.copy()` makes a **shallow copy** (copies only the outer object).
+- `copy.deepcopy()` makes a **deep copy** (copies nested objects too).
 
 ---
 
